@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.0" orientation="orthogonal" renderorder="right-down" width="25" height="25" tilewidth="25" tileheight="25" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="water_1.tsx"/>
+ <tileset firstgid="2" source="water_2.tsx"/>
+ <tileset firstgid="3" source="water_3.tsx"/>
+ <tileset firstgid="4" source="tille_c.tsx"/>
+ <tileset firstgid="5" source="tille_s.tsx"/>
+ <layer name="Logic" width="25" height="25" visible="0" locked="1">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAE2NgGFmAZZCYQQuz6GH/QLt3IACt/IzPXHLtpNStAxW/hOylt7toETcDCchxMy49g9X/g9VduAAp7h1Ivw2GcB0s9TY144xadS8Am+SrWMQJAAA=
+  </data>
+ </layer>
+ <layer name="Map" width="25" height="25">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAE2NlYGBgpTFmHESYZZCYQQuz6GH/QLt3KIQRNcwl105K3TpQ8UvIXpg8E50wC5lygxWT42Zcegar/weru6jh3oH0G7rdzAOAWYagGYTUkuoeXOoBgHQmb8QJAAA=
+  </data>
+ </layer>
+</map>
